@@ -26,16 +26,16 @@ layers:
   - P
   - \
   - ESCAPE
-  - {t: LEFT WIN, h: A}
-  - {t: LCTRL, h: S}
-  - D
+  - {t: A, h: LWIN}
+  - {t: S, h: LCTRL}
+  - {t: D, h: LEFT ALT}
   - F
   - G
   - H
   - J
-  - K
-  - {t: RCTRL, h: L}
-  - {t: RIGHT WIN, h: ;}
+  - {t: K, h: RIGHT ALT}
+  - {t: L, h: RCTRL}
+  - {t: ;, h: RIGHT WIN}
   - ''''
   - LSHFT
   - Z
@@ -54,8 +54,8 @@ layers:
   - '-'
   - '='
   - LEFT ALT
-  - LEFT WIN
-  - LCTRL
+  - LEFT ALT
+  - {t: SPACE, h: LCTRL}
   - SPACE
   - ENTER
   - lower
