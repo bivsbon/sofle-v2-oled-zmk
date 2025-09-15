@@ -54,11 +54,11 @@ layers:
   - '-'
   - '='
   - LEFT ALT
-  - LEFT ALT
-  - {t: SPACE, h: LCTRL}
   - SPACE
+  - LCTRL
   - ENTER
-  - lower
+  - SPACE
+  - RIGHT ALT
   - '['
   - ']'
   lower:
@@ -119,7 +119,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT CLR ALL
   raise:
@@ -241,6 +241,6 @@ layers:
   - ''
   - ''
   - ''
-  - {type: held}
+  - ''
   - ''
   - ''
