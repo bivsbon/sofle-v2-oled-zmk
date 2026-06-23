@@ -257,7 +257,7 @@ layers:
   - '9'
   - '0'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - TAB
   - Q
   - W
   - E
@@ -281,7 +281,7 @@ layers:
   - L
   - ;
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LSHFT
   - Z
   - X
   - C
@@ -295,9 +295,9 @@ layers:
   - .
   - /
   - {t: default, h: toggle}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '-'
+  - +
+  - LEFT ALT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
