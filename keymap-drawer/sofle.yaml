@@ -295,13 +295,13 @@ layers:
   - .
   - /
   - {t: default, h: toggle}
-  - '-'
-  - +
-  - LEFT ALT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - SPACE
-  - LCTRL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - SPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
